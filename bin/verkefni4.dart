@@ -9,7 +9,7 @@ void main() {
   int length = num.toString().length;
 
   {
-    print('total of digits is $length');
+    print('number of digits: $length');
   }
 
 
